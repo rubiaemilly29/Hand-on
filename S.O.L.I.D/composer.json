@@ -1,0 +1,16 @@
+{
+    "name": "rubia/s.o.l.i.d",
+    "description": "Abstração e Exercicios do principios solid",
+    "autoload": {
+        "psr-4": {
+            "Rubia\\SOLID\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rubia",
+            "email": "rubiaemilly29@gmail.com"
+        }
+    ],
+    "require": {}
+}
